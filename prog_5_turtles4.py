@@ -29,14 +29,14 @@ aleena.hideturtle()
 aleena.speed(0)
 aleena.pensize(6)
 
-arnold.forward(624)         # tell arnold to move forward by 150 units
+arnold.forward(624)         # tell arnold to move forward 
 arnold.left(90)
 arnold.pendown()
 
 aleena = turtle.Turtle()
 aleena.hideturtle()
 aleena.pensize(6)
-aleena.speed(0)                 # set the width of her pen
+aleena.speed(0)                 
 
 gate = 'open'
 x = 1
